@@ -1,0 +1,11 @@
+body {
+    font-family: 'Mali', cursive;
+    background-color: yellow;
+}
+img {
+    width: 250px;
+    height: 250px;
+}
+h1 {
+    text-decoration:underline;
+}
